@@ -1,0 +1,16 @@
+{
+  "manifest_version": 3,
+  "name": "Word Counter",
+  "description": "Adds a word counter to every text area on the page",
+  "version": "1.0",
+  "permissions": [
+      "activeTab"
+  ],
+  "content_scripts": [{
+      "matches": ["<all_urls>"],
+      "js": ["content.js"]
+  }],
+  "action": {
+      "default_popup": "popup.html"
+  }
+}
