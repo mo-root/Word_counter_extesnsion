@@ -2,7 +2,7 @@
 
 A simple chrome extension that counts the number of words in a highlighted paragraph. 
 
-![Word Counter Screenshot](screenshot.png)
+![Retrieve Data From Firestore - Google Chrome 2023-01-21 19-23-06](https://user-images.githubusercontent.com/59801139/213910346-812e9974-c3cf-427e-9396-cc024924e5bd.gif)
 
 ## Technologies Used
 
