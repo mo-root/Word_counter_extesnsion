@@ -24,7 +24,7 @@ The extension uses a content script that listens for a "mouseup" event on the do
 
 1. Clone the repository
 ```sh
-git clone https://github.com/YOUR_USERNAME/word-counter
+git clone https://github.com/mo-root/Word_counter_extesnsion.git
 ```
 
 2. Go to chrome://extensions/ and check the box for Developer mode in the top right.
